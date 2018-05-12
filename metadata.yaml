@@ -1,0 +1,32 @@
+_repo: The-Life-of-Cicero-Volume-II._28676
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: Anthony Trollope (1815-1882) was one of the most successful, prolific
+  and respected English novelists of the Victorian era. He wrote penetrating novels
+  on political, social, and gender issues and conflicts of his day. In 1867 Trollope
+  left his position in the British Post Office to run fo.
+gutenberg_issued: '2009-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Cicero, Marcus Tullius'
+- !lcsh 'Statesmen -- Rome -- Biography'
+- !lcsh 'Authors, Latin -- Biography'
+title: The Life of Cicero, Volume II.
+url: http://www.gutenberg.org/ebooks/28676
